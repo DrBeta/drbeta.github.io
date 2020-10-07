@@ -10,7 +10,7 @@ I am a 13 year old on the internet who's physical body is in Mississippi who lik
 <p>Lately I have been learning to let go and have some fun with this amazing skill. I used to have trouble doing that because I thought everything had to be a "business" and it had to be "serious".</p>
 <p>I think that Bitcoin and other cryptocurrencies are amazing because of its decentralized nature. You don't need permission to create a wallet or send money to someone else, but the KYC for the exchanges sucks.</p>
 <p>Maybe this homepage is starting to turn into like a microblog of sorts by accident..... oops</p>
-<p>By the way, repeatable proccesses I always have to relearn when I need them are going to be on the <a href="/guides/">guides</a> page.</p>
+<p>By the way, repeatable proccesses I always have to relearn when I need them are going to be on the <a href="/blog/">blog</a>.</p>
 <p>For real I am going to wrap this up now.</p>
 <p>Help I can't turn the firehose of thought off.</p>
 <p>Find m<i>*faucet turning sound*</i></p>
